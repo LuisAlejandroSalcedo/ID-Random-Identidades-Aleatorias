@@ -1,4 +1,4 @@
-![ID-Random](img/1.png)
+![ID-Random](https://github.com/LuisAlejandroSalcedo/Id-Random-Identidades-Aleatorias/blob/master/img/1.PNG)
 
 # ID-Random | Identidades Aleatorias
 
@@ -9,6 +9,6 @@ Al entrar en el sitio web, se hara una petición a la API, la cual nos devolvera
 La API nos devolvera: Nombre, apellido, sexo, edad, fecha de nacimiento, email, información de tarjeta de credito, y una imagen de perfil.
 Toda esta información se envia como un archivo de formato JSON:
 
-![uinames response](img/response_json.png)
+![uinames response](https://github.com/LuisAlejandroSalcedo/Id-Random-Identidades-Aleatorias/blob/master/img/2.PNG)
 
-![info id](img/2.png)
+![info id](https://github.com/LuisAlejandroSalcedo/Id-Random-Identidades-Aleatorias/blob/master/img/response_json.PNG)
